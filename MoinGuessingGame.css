@@ -1,0 +1,20 @@
+.header {
+    text-align: center;
+  }
+  
+  .h1{   
+    width: 50px;
+    height: 50px;
+    border: 2px solid rgb(80, 231, 72);
+    border-radius: 50%;
+    margin: 0 10px;
+    background-color: rgb(240, 53, 53);
+  }
+  h2{
+  text-align:center;
+    text-decoration-color: rgb(216, 132, 67);
+  }
+  .header {
+    background-color: rgb(147, 253, 237);
+  }
+  
