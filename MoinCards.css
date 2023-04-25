@@ -1,0 +1,21 @@
+#first1  img:hover {
+    /*using active to make header permanent highlighted*/
+    color: #e07116;}
+
+#first .first h5:hover::after{
+    content: "";
+    width: 30%;
+    height: 2px;
+    background-color: #088178;
+    position: absolute;
+    bottom: -4px;
+    left: 20px;
+}
+#container.card.btn:hover{
+    background:#7f0b72;
+    color:#fff;
+}
+#first1.image:hover a{
+    background:#7f0b72;
+    color:#fff;   
+}
